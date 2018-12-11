@@ -55,7 +55,9 @@ public class Main {
           // s1.retainAll(s2);
            s1.addAll(s2);
            System.out.println(s1);
-
+for (String s : s1) {
+ s.
+}
 
 
        }
